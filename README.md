@@ -1,4 +1,4 @@
-# IPU_segmentation Segmentation d'audios en IPU (Inter-Pausal Units)
+# IPU_segmentation : Segmentation d'audios en IPU (Inter-Pausal Units)
 
 ## Description
 Ce dépôt contient deux notebooks permettant de segmenter des fichiers audio en unités inter-pausales (IPU) :
