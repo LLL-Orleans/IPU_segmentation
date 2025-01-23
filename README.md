@@ -47,7 +47,7 @@ Ce dépôt contient des notebooks relatifs à la segmentation automatique des fi
 ## Instructions d'utilisation
 1. Clonez le dépôt :  
    ```bash
-   git clone <URL_DU_DEPOT>
+   git clone https://github.com/LLL-Orleans/Segmentation_auto.git
    cd Segmentation_auto
    ```
 2. Installez les dépendances nécessaires, notamment Pyannote et les bibliothèques pour manipuler les formats TextGrid et EAF :
